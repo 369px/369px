@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm 369px</h1>
 <h3 align="left">A Digital Mosaic Artist</h3>
 
-- 🔭 I’m currently working on [spruceUI](https://github.com/spruceUI/spruceOS)
+- 🔭 I’m currently working on [spruceUI](https://github.com/spruceUI/spruceOS), Pico8 and Picotron
 
 - 📝 Sometimes I post here: [https://mastodon.social/@369369369](https://mastodon.social/@369369369)
 
