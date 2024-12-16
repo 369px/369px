@@ -1,4 +1,4 @@
-<h1 align="left">Ayo, my name is 369px</h1>
+<h1 align="left">Ayo! My name is 369px</h1>
 <h3 align="left">A Digital Mosaic Artist</h3>
 
 - 🔭 I’m currently working on spruceUI, Pico8 and Picotron
